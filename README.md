@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Alef Mendes.
 
-- 🔭 Faço Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em front-end.
+- 🔭 Faço Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em desenvolvimento front-end.
 - 🌱 Estudando javascript, css e html.
 
 <div align="center">
