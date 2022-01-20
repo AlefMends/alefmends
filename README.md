@@ -1,4 +1,4 @@
-## Oi! Meu nome é Alef..
+## Olá, eu sou o Alef!
 
 - Faço Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em desenvolvimento front-end.
 - Estudando javascript, css e html.
