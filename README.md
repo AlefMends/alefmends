@@ -1,7 +1,7 @@
-## Olá! Eu sou o Alef Mendes.
+## Hi! My name is Alef..
 
-- 🔭 Faço Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em desenvolvimento front-end.
-- 🌱 Estudando javascript, css e html.
+- Faço Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em desenvolvimento front-end.
+- Estudando javascript, css e html.
 
 <div align="center">
   <a href="https://github.com/alefmends">
