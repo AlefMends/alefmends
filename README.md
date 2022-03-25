@@ -3,8 +3,7 @@
 Hello I'm Alef Mendes  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 </h1>
 
-- Faço Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em desenvolvimento front-end.
-- Estudando javascript, css e html.
+- Sou estudante em Analise e Desenvolvimento de Sistemas, e atualmente estou me especializando em desenvolvimento front-end.
 
 <div align="center">
   <a href="https://github.com/alefmends">
