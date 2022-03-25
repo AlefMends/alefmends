@@ -20,7 +20,7 @@ Hello I'm Alef Mendes  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gi
 
   </div>
    
-  ##
+  ## <br /> 🙋‍♂️ Connect with me 
   
   <div> 
 
