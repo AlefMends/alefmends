@@ -19,7 +19,6 @@ Hello I'm Alef Mendes  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/gi
   <img align="center" alt="Alef-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Alef-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Alef-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Alef-Github" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
 
    
   ## <br /> 🙋‍♂️ Conecte-se comigo:
