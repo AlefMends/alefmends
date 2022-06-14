@@ -18,7 +18,7 @@
     <img align="center" alt="Alef-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Alef-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Alef-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-
+<b>
 
  🙋‍♂️ Conecte-se comigo:
   
