@@ -35,7 +35,7 @@
  • Javascript<br>
  </h4>
    <img src="https://acegif.com/wp-content/uploads/cat-typing-1.gif">
- <h2>  &emsp; &emsp;Conecte-se comigo:</h2>
+ <h2>Conecte-se comigo:</h2>
   
   <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
