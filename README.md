@@ -19,16 +19,14 @@
     <img align="center" alt="Alef-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
     <img align="center" alt="Alef-Linux" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
     <img align="center" alt="Alef-Git" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg"><br>
-</div>
- <br>
+</div><br>
 🎓Tenho conhecimento/experiência:<br>
  • HTML5<br>
  • CSS3<br>
  • Javascript <br>
  • Versionamento de código com Git/Github<br>
  • Linux<br>
- • Figma<br>
-  <br>
+ • Figma<br><br>
 
 🧠Estou aprendendo e/ou me aprimorando <br>
  • ReactJS<br>
