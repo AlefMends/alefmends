@@ -1,7 +1,7 @@
 
 <!-- APRESENTAÇÃO -->
-<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="30%" width="30%" alt="avatar" border="0">
 <h3>
+<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="30%" width="30%" alt="avatar" border="0">
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="emote-mão" width="28">
 
