@@ -1,11 +1,13 @@
+
 <!-- APRESENTAÇÃO -->
-<h1>
+<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="30%" width="30%" alt="avatar" border="0">
+<h3>
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="emote-mão" width="28">
-</h1>
+
+</h3>
 
 <p align="left">
- <img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="40%" width="40%" alt="avatar" border="0">
  Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,<br>
  estou estudando outras linguagens para num futuro próximo me tornar Full-Stack.<br>
