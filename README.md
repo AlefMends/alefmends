@@ -31,7 +31,7 @@
  <!-- ESTUDANDO/APRIMORANDO -->
 <p align="left">
   <strong>🧠 Estou aprendendo e/ou me aprimorando </strong>
-  <br>
+  <br><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" />
