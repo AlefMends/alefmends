@@ -1,17 +1,17 @@
 <img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="450" width="330" alt="2" border="0"><br>
-
+<h1>
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-
+</h1>
 <p align="left">
  Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,<br>
  estou estudando outras linguagens para num futuro próximo me tornar Full-Stack.<br>
  Estudo diariamente, sempre me atualizando e dando o melhor de mim ❤️ 
- </p>
+</p>
  <br>
  
- <p align="left">
+<p align="left">
  <strong>🎓Tenho conhecimento/experiência:</strong>
  <br><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
@@ -22,10 +22,9 @@
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
- </p>
-  <br>
+</p><br>
  
- <p align="left">
+<p align="left">
   <strong>🧠 Estou aprendendo e/ou me aprimorando </strong>
   <br><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
@@ -39,7 +38,7 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
- </p><br>
+</p><br>
  
 ## Conecte-se comigo:
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
