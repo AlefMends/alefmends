@@ -1,4 +1,4 @@
-<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="400" width="290" alt="emote-alef" border="0"><br>
+<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="400" width="290" alt="emote-alef" border="0">
 <h1>
  <!-- APRESENTAÇÃO -->
  Olá! Bem vindo ao meu Github
