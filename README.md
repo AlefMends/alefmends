@@ -34,8 +34,9 @@
  • NextJS<br>
  • Typescript<br>
  • Javascript<br>
- </h4>
-   <h1><img src="https://acegif.com/wp-content/uploads/cat-typing-1.gif">
+ </h5>
+
+  <h1><img src="https://acegif.com/wp-content/uploads/cat-typing-1.gif">
  <h2>Conecte-se comigo:
   
   <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
