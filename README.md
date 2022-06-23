@@ -8,9 +8,9 @@
 </h3>
 
 <p align="left">
- Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
+ Me chamo Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,
- estou estudando outras linguagens para num futuro próximo me tornar Full-Stack.<br>
+ estudo outras linguagens para num futuro próximo me tornar Full-Stack.<br>
  Estudo diariamente, sempre me atualizando e dando o melhor de mim ❤️ 
 </p><br>
 
@@ -40,8 +40,6 @@
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-  <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-  <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
 </p><br>
 
