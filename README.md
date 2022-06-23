@@ -4,7 +4,7 @@
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
- 
+ <img align="right" src="https://github.com/AlefMends/alefmends/blob/main/emote.png" height="450" width="300" alt="2" border="0">
 <p align="left">
  Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,<br>
@@ -41,18 +41,15 @@
   <img width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
 
- </p>
- <br>
+ </p><br>
  
 ## Conecte-se comigo:
-  
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/alef-mendes-596a088b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
-  
-<img align="left" width="250px" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" alt="2" border="0">
+<img align="left" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" height="250" width="300" alt="2" border="0">
 
- 
+
  
 
  
