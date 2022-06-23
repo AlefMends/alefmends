@@ -6,7 +6,7 @@
 </h1>
  
 <p align="left">
- Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou Dev Front-End.<br>
+ Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End, estou estudando outras linguagens para num futuro próximo me tornar Full-Stack.<br>
  Estudo diariamente, sempre me atualizando e dando sempre o melhor de mim ❤️ 
  </p>
