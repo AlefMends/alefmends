@@ -51,10 +51,6 @@
   <a href="https://www.linkedin.com/in/alef-mendes-596a088b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 <img align="left" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" height="250" width="330" alt="2" border="0">
- <a href="https://github.com/alefmends">
- <img align="right" height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alefmends&layout=compact&langs_count=7&theme=dark"/>
-
- 
 
  
  
