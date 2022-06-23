@@ -1,5 +1,5 @@
 
-<img align="right" width="250px" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" alt="2" border="0">
+
 <h1>
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
@@ -46,8 +46,9 @@
   
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/alef-mendes-596a088b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-
+  <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
+  
+<img align="left" width="250px" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" alt="2" border="0">
 
  
  
