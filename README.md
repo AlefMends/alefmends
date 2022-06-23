@@ -7,10 +7,10 @@
 </h3>
 
 <p align="left">
- Me chamo Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
+ Me chamo Alef, moro em Fortaleza/CE, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,
  estudo outras linguagens para no futuro próximo me tornar Full-Stack.<br>
- Estudo diariamente, sempre me atualizando e dando o melhor de mim ❤️ 
+ Estou sempre aprendendo, me atualizando e dando o melhor de mim ❤️ 
 </p><br>
 
 <!-- EXPERIÊNCIA/CONHECIMENTOS -->
@@ -41,7 +41,8 @@
 </p><br>
 
  <!-- CONTATO -->
-<strong>Conecte-se comigo:</strong><br>
+<strong>Conecte-se comigo:</strong>
+<br><br>
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/alef-mendes-596a088b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
