@@ -1,7 +1,7 @@
-<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="450" width="330" alt="2" border="0"><br>
+
 <h1>
  Olá! Bem vindo ao meu Github
- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="emote-mão" width="28">
 </h1>
 <p align="left">
  Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
@@ -10,7 +10,7 @@
  Estudo diariamente, sempre me atualizando e dando o melhor de mim ❤️ 
 </p>
  <br>
- 
+ <img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="inline" height="400" width="290" alt="emote-alef" border="0">
 <p align="left">
  <strong>🎓Tenho conhecimento/experiência:</strong>
  <br><br>
@@ -45,6 +45,8 @@
   <a href="https://www.linkedin.com/in/alef-mendes-596a088b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/alefmends/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a><br>
 <img align="left" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" height="250" width="330" alt="2" border="0">
+
+
  
 
  
