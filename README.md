@@ -9,7 +9,7 @@
 <p align="left">
  Me chamo Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,
- estudo outras linguagens para num futuro próximo me tornar Full-Stack.<br>
+ estudo outras linguagens para em futuro próximo me tornar Full-Stack.<br>
  Estudo diariamente, sempre me atualizando e dando o melhor de mim ❤️ 
 </p><br>
 
