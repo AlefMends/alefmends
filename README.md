@@ -1,10 +1,10 @@
 
+<img align="right" width="250px" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" alt="2" border="0">
 <h1>
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
- <img align="right" width="250px" src="https://pa1.narvii.com/6461/bce4acd5b7e15ca478b7b08b65e3f9815b57a68f_hq.gif" alt="2" border="0">
-
+ 
 <p align="left">
  Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou Dev Front-End.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End, estou estudando outras linguagens para num futuro próximo me tornar Full-Stack.<br>
