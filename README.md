@@ -1,5 +1,6 @@
-
+<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="400" width="290" alt="emote-alef" border="0"><br>
 <h1>
+ <!-- APRESENTAÇÃO -->
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="emote-mão" width="28">
 </h1>
@@ -8,9 +9,9 @@
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,<br>
  estou estudando outras linguagens para num futuro próximo me tornar Full-Stack.<br>
  Estudo diariamente, sempre me atualizando e dando o melhor de mim ❤️ 
-</p>
- <br>
- <img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="inline" height="400" width="290" alt="emote-alef" border="0">
+</p><br>
+
+<!-- EXPERIÊNCIA/CONHECIMENTOS -->
 <p align="left">
  <strong>🎓Tenho conhecimento/experiência:</strong>
  <br><br>
@@ -24,6 +25,7 @@
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
 </p><br>
  
+ <!-- ESTUDANDO/APRIMORANDO -->
 <p align="left">
   <strong>🧠 Estou aprendendo e/ou me aprimorando </strong>
   <br><br>
@@ -40,6 +42,7 @@
 
 </p><br>
  
+ <!-- CONTATO -->
 ## Conecte-se comigo:
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
   <a href="https://www.linkedin.com/in/alef-mendes-596a088b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
