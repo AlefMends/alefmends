@@ -1,8 +1,8 @@
-<img class="emote" align="right" src="https://github.com/AlefMends/alefmends/blob/main/emote.png" height="450" width="330" alt="2" border="0"><br>
-<h1>
+<img src="https://github.com/AlefMends/alefmends/blob/main/emote.png" align="right" height="450" width="330" alt="2" border="0"><br>
+
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h1>
+
 <p align="left">
  Meu nome é Alef, moro em Fortaleza/Ce Brasil, e sou <strong>Dev Front-End</strong>.<br>
  Estou me formando em Análise e Desenvolvimento de Sistemas, e apesar de hoje ser Front-End,<br>
