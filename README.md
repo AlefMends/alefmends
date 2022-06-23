@@ -1,9 +1,8 @@
 
 <!-- APRESENTAÇÃO -->
-<h3>
 <img src="https://github.com/AlefMends/alefmends/blob/main/avatar.gif" align="right" height="30%" width="30%" alt="avatar" border="0">
+<h3>
  Olá! Bem vindo ao meu Github
-
 </h3>
 
 <p align="left">
@@ -25,6 +24,7 @@
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
 </p><br>
+
  <!-- ESTUDANDO/APRIMORANDO -->
 <p align="left">
   <strong>🧠 Estou aprendendo e/ou me aprimorando </strong>
