@@ -1,6 +1,5 @@
-
+<img class="emote" align="right" src="https://github.com/AlefMends/alefmends/blob/main/emote.png" height="450" width="330" alt="2" border="0">
 <h1>
- <img class="emote" align="right" src="https://github.com/AlefMends/alefmends/blob/main/emote.png" height="450" width="330" alt="2" border="0">
  Olá! Bem vindo ao meu Github
  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h1>
