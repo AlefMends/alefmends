@@ -13,7 +13,7 @@
 
 <!-- EXPERIÊNCIA/CONHECIMENTOS -->
 <p align="left">
- <strong>🎓Tecnologia que tenho conhecimento/experiência:</strong>
+ <strong>🎓Tecnologias que tenho conhecimento/experiência:</strong>
  <br><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
@@ -26,7 +26,7 @@
 
  <!-- ESTUDANDO/APRIMORANDO -->
 <p align="left">
-  <strong>🧠 Tecnologia estou aprendendo e/ou me aprimorando </strong>
+  <strong>🧠 Tecnologias estou aprendendo e/ou me aprimorando </strong>
   <br><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
