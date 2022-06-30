@@ -26,7 +26,7 @@
 
  <!-- ESTUDANDO/APRIMORANDO -->
 <p align="left">
-  <strong>🧠 Tecnologias estou aprendendo e/ou me aprimorando </strong>
+  <strong>🧠 Tecnologias estou aprendendo e/ou me aprimorando</strong>
   <br><br>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
