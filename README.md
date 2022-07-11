@@ -2,7 +2,7 @@
 <!-- APRESENTAÇÃO -->
 <img src="https://github.com/AlefMends/alefmends/blob/main/avatar.gif" align="right" height="30%" width="30%" alt="avatar" border="0">
 <h3>
- Olá! Bem vindo ao meu Github
+ Olá! Bem vindo ao meu Github.
 </h3>
 
 <p align="left">
