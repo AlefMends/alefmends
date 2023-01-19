@@ -22,6 +22,7 @@
   <img width="40" src="https://github.com/AlefMends/alefmends/blob/main/icon-github.svg" />
   <img width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />
   <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" />
+  <img width="40" src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" />
 </p><br>
 
  <!-- ESTUDANDO/APRIMORANDO -->
