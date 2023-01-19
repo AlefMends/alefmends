@@ -7,7 +7,7 @@
 
 <p align="left">
  Me chamo <strong>Alef</strong>, Resido atualmente em Fortaleza, Ceará, Brasil.<br>
- Sou estudante de Análise e Desenvolvimento de Sistema e <strong>Desenvolvedor fullstack</strong> <br>
+ Sou estudante de Análise e Desenvolvimento de Sistema e <strong>Desenvolvedor trainne</strong> <br>
  Estou me dedicando para me tornar full stack, sempre me atualizando e dando o meu melhor ❤️ 
 </p><br>
 
