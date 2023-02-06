@@ -1,6 +1,6 @@
 <!-- APRESENTAÇÃO -->
 
-<h2 align="center">
+<h3 align="center">
 Oi! Eu sou Alef, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <hr>
