@@ -16,7 +16,7 @@ Oi! Eu sou Alef, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.
 <p align="center">
  <strong>🎓Tecnologias que tenho conhecimento/experiência:</strong>
  <br><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" alt="HTML5"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg"/>
@@ -54,7 +54,7 @@ Oi! Eu sou Alef, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.
   Obrigado pela visita!!!
   <img src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
   <br>
-  <img src="https://github.com/AlefMends/alefmends/blob/main/avatar.gif" align="center" height="12%" width="12%" alt="avatar" border="0">
+  <img src="https://github.com/AlefMends/alefmends/blob/main/avatar.gif" align="center" height="10%" width="10%" alt="avatar" border="0">
 
 
 
