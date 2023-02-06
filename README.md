@@ -1,4 +1,3 @@
-
 <!-- APRESENTAÇÃO -->
 <img src="https://github.com/AlefMends/alefmends/blob/main/avatar.gif" align="right" height="30%" width="30%" alt="avatar" border="0">
 <h3>
@@ -54,4 +53,7 @@
   <img align="left" src="https://github.com/AlefMends/alefmends/blob/main/star.gif" alt="Bat" width="30">
   Obrigado pela visita!!!
 </div>
+<hr>
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
