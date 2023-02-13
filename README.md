@@ -30,7 +30,7 @@ Oi! Eu sou Alef, seja bem-vindo(a) ao meu perfil! <img src="https://media.giphy.
  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 </p><br>
 
- <!-- CONTATO -->
+ <!-- CONTATO --> 
 <strong>Conecte-se comigo:</strong>
 <br>
   <a href = "mailto:contatoalefmendes@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"> </a>
