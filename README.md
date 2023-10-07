@@ -8,7 +8,7 @@ Oi! Eu sou Alef, seja bem-vindo(a) ao meu perfil!  <img src="https://media.giphy
 ![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
 <p align="center">
- Sou estudante de Análise e Desenvolvimento de Sistema e <strong>Desenvolvedor FullStack</strong> <br>
+ Sou Graduado em Análise e Desenvolvimento de Sistema e <strong>Desenvolvedor FullStack</strong> <br>
  Resido atualmente em Fortaleza, Ceará, Brasil.<br>
 </p><br>
 
